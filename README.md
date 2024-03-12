@@ -3,9 +3,6 @@
 ## 备注信息
 - 在线访问：[http://wuliu.gardenengineer.club/](http://wuliu.gardenengineer.club/ '在线预览') 账号：wuliu@163.com 密码：123456
 
-
-![image.png](static/images/QRcode.jpg)  ![image.png](static/images/tiyan.jpg)
-
 ## 2024-02-29
 1.运单报表及打印
 
