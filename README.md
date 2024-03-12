@@ -2,10 +2,7 @@
 
 ## 备注信息
 - 在线访问：[http://wuliu.gardenengineer.club/](http://wuliu.gardenengineer.club/ '在线预览') 账号：wuliu@163.com 密码：123456
-- QQ交流群：567961463
-- 操作说明：[http://doc.gardenengineer.club/logistic/yundan.html](http://doc.gardenengineer.club/logistic/yundan.html '操作说明')
-- 微信公众号： 菜园工程师
-- 小程序： 账号：wuliu@163.com 密码：123456
+
 
 ![image.png](static/images/QRcode.jpg)  ![image.png](static/images/tiyan.jpg)
 
